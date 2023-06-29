@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">Foody Life</string>
+    <string name="text_view_app_title_text">Foody Life</string>
+    <string name="text_view_email">myEmail@myWebSite.com</string>
+    <string name="text_view_text_starters">Starters</string>
+    <string name="text_view_text_main">Main Course</string>
+    <string name="text_view_text_desserts">Desserts</string>
 </resources>
